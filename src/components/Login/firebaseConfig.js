@@ -1,9 +1,9 @@
 let firebaseConfig = {
-    apiKey: "AIzaSyBaBpAti1M-oJN7W7Bamd9FIe1UIglQGPI",
-    authDomain: "fresh-valley-5e237.firebaseapp.com",
-    projectId: "fresh-valley-5e237",
-    storageBucket: "fresh-valley-5e237.appspot.com",
-    messagingSenderId: "945731930553",
-    appId: "1:945731930553:web:c1a21e89649fb7ebe40e68"
+  apiKey: "AIzaSyAypL8WS_wkdmN91KQqCy_265ftSaMmoF0",
+  authDomain: "hut-bazar-ba6c8.firebaseapp.com",
+  projectId: "hut-bazar-ba6c8",
+  storageBucket: "hut-bazar-ba6c8.appspot.com",
+  messagingSenderId: "1053782472785",
+  appId: "1:1053782472785:web:6d07ecdcdd5f084a24e070"
   };
   export default firebaseConfig
