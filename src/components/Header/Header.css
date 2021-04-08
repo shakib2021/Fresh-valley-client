@@ -1,0 +1,12 @@
+.li{
+    margin-left: 10px;
+}
+.lik{
+ margin:5px;
+    color: white;
+}
+.lik:hover{
+
+    color: white;
+  text-decoration: none;
+}

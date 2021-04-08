@@ -1,0 +1,88 @@
+.lo{
+    height:600px;
+    width:100%;
+    text-align: center;
+    background: rgb(48, 46, 46);
+  box-shadow: 0px 22px 43px rgba(24, 23, 23, 0.233);
+  border-radius: 12px;
+  margin-top: 12px;
+  
+}
+.welcome{
+    float: left;
+height:100%;
+width:50%;
+background:#F0F2F5;
+}
+.login{
+    height:100%;
+    width:50%;
+    background:#F0F2F5;
+    
+    float: left;
+}
+.form{
+   height:470px;
+    width:400px;
+    background: white;
+    margin:42px auto;
+    border-radius:8px;
+  box-shadow:2px 2px  12px rgba(0, 0, 0, 0.13);
+}
+.inp{
+    padding-left: 5px;
+outline: none;
+    height:40px;
+    width:80%;
+     margin-top: 5px;
+     border-radius: 5px;
+     border: 1px solid gray;
+     font-weight: 700;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.inp:focus{
+    box-shadow: .1px .1px 2px blue,-.1px -.1px 4px rgb(146, 146, 243);
+
+}
+.inp1:focus{
+    box-shadow: .1px .1px 2px blue,-.1px -.1px 4px rgb(146, 146, 243);
+
+}
+.inp1{
+    padding-left: 5px;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+
+    border: 1px solid gray;
+outline: none;
+    margin-top:35px;
+border-radius: 5px;
+    height:40px;
+    width:80%;
+}
+.inp2{
+    height:40px;
+    width:80%;
+    background: rgb(62, 62, 238);
+    border-radius: 5px;
+    border:1px solid blue;
+    color:white;
+    font-weight: bold;
+    font-size: 21px;
+    cursor: pointer;
+    outline: none;
+}
+.ico{
+    height:50px;
+    margin-right:3%;
+    margin-top: 3px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 980px) {
+    .welcome {
+   display: none;
+     
+    }
+  }
